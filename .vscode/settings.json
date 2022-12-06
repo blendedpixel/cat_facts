@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Zamtel\\jar files\\json-simple-1.1.jar",
+        "d:\\Zamtel\\jar files\\mysql-connector-java-8.0.30.jar",
+        "d:\\Zamtel\\jar files\\protobuf-java-3.19.4.jar"
+    ]
+}
